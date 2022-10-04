@@ -1,4 +1,4 @@
-# Introdução agora é full based redpill
+# Introdução Nova
 
 ## O que é o git?
 
